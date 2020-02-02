@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Md-Ppt": {
+      "commandName": "Project",
+      "commandLineArgs": "-m \"D:\\Bible\\ChristianCommons\\MD\\Psalms.md\" -p \"D:\\Bible\\ChristianCommons\\PPT\\Psalms.ppt\""
+    }
+  }
+}
